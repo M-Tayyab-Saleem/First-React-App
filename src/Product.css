@@ -1,0 +1,7 @@
+.Product {
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 250px;
+    margin-left: 10px;
+    height: 158px;
+}
